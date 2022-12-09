@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @2dtkingslayer.
-- 👀 I’m interested in software development, data analysis and programming errors.
-- 🌱 I’m into C++, Python, Java.
+- 👀 I’m interested in software development (web and iOS), data analysis and programming errors.
+- 🌱 I’m into Java, Python, Swift, C, C++, JavaScript, NodeJS, PHP, Objective-C.
+- Courseworks: Data Structure & Algorithm, Mobile App Development, Web Development, Object-Oriented Programming, Introduction to Data Science, Digital Systems.
 - 💞️ I’m looking to collaborate on further projects.
 - 📫 How to reach me? Gmail: ddtblock1903@gmail.com // ig: @2dtkingslayer
 
