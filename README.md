@@ -14,7 +14,7 @@
 
 - 🤝&nbsp;&nbsp;I’m interested in **software development (web and iOS)**, **data analysis**, and **coding assessments**
 
-- 👀&nbsp;&nbsp;I'm lookfing for **Software Engineering internship** for the **Summer 2023** coming up
+- 👀&nbsp;&nbsp;I'm looking for **Software Engineering internship** for the **Summer 2023** coming up
 
 - 💬&nbsp;&nbsp;How to reach me? [**LinkedIn**](https://www.linkedin.com/in/2dt/), [**Gmail**](mailto:ddtblock1903@gmail.com), [**FaceBook**](https://www.facebook.com/ducthuansidco)
 
