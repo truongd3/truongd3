@@ -51,7 +51,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2dtkingslayer&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="table1"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=2dtkingslayer&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="table2"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=2dtkingslayer&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=ff0&text_color=fff" alt="table2"/>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=2dtkingslayer)](https://github-profile-trophy.vercel.app/?username=2dtkingslayer)
