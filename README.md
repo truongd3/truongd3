@@ -57,6 +57,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=2dtkingslayer)](https://github-profile-trophy.vercel.app/?username=2dtkingslayer)
 
 
+## LeetCode Statistics
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/leetcodemaster2000?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/leetcodemaster2000?theme=unicorn&extension=activity)
+
 ## Social Media
 
 > Want to get in touch?
