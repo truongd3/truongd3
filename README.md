@@ -85,11 +85,11 @@
 > My top current projects
 
 <a href="https://github.com/2dtkingslayer/IBM-CallForCodeFairWorkCase2022">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2dtkingslayer&repo=IBM-CallForCodeFairWorkCase2022" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2dtkingslayer&repo=Real-Estate-House-Price-Prediction" />
 </a>
 
 <a href="https://github.com/2dtkingslayer/yen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2dtkingslayer&repo=yen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2dtkingslayer&repo=New_Perl-Like_Language" />
 </a>
 
 <a href="https://github.com/2dtkingslayer/SaveWildlife">
@@ -97,5 +97,5 @@
 </a>
 
 <a href="https://github.com/2dtkingslayer/EnvironmentCard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2dtkingslayer&repo=EnvironmentCard" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2dtkingslayer&repo=MarketingSite-with-SalesFunnel" />
 </a>
