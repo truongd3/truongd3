@@ -19,27 +19,34 @@
 - 💬&nbsp;&nbsp;How to reach me? [**LinkedIn**](https://www.linkedin.com/in/2dt/), [**Gmail**](mailto:ddtblock1903@gmail.com), [**FaceBook**](https://www.facebook.com/ducthuansidco)
 
 #### Programming Languages
+
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="70" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql"/>
   <img src="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg" alt="swift"/>
   <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-ar21.svg" alt="objc"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php"/>
+</p>
+
+### Frameworks
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="70" height="70"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask"/>
 </p>
 
 #### Technologies & Tools
+
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github"/>
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql"/>
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode"/>
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku"/>
