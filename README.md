@@ -10,13 +10,13 @@
 
 - 🏣&nbsp;&nbsp;I’m currently attending the [New Jersey Institute of Technology](https://www.njit.edu/)
 
-- 🌱&nbsp;&nbsp;I’m currently a sophomore whose major is **Computer Science**
+- 👨‍🎓&nbsp;&nbsp;I’m currently a senior whose major is **Computer Science**
 
-- 🤝&nbsp;&nbsp;I’m interested in **software development (web and iOS)**, **data analysis**, and **coding assessments**
+- 💻&nbsp;&nbsp;I’m interested in **software development (web and iOS)**, **data analysis**, and **coding assessments**
 
-- 👀&nbsp;&nbsp;I'm looking for **Software Engineering internship** for the **Summer 2023** coming up
+- 👀&nbsp;&nbsp;I'm looking for **New-Grad Software Engineering role** for **May 2025**
 
-- 💬&nbsp;&nbsp;How to reach me? [**LinkedIn**](https://www.linkedin.com/in/2dt/), [**Gmail**](mailto:ddtblock1903@gmail.com), [**FaceBook**](https://www.facebook.com/ducthuansidco)
+- 💬&nbsp;&nbsp;How to reach me? [**LinkedIn**](https://www.linkedin.com/in/2dt/), [**Gmail**](mailto:tdd4@njit.edu), [**FaceBook**](https://www.facebook.com/ducthuansidco)
 
 #### Programming Languages
 
