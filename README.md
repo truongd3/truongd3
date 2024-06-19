@@ -2,7 +2,7 @@
 <h3 align="center">👨🏼‍💻 A passionate Computer Science student from Vietnam 🇻🇳</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=2dtkingslayer" alt="vadorequest" />
+  <img src="https://komarev.com/ghpvc/?username=truongd3" alt="vadorequest" />
 </p>
 
 
@@ -56,12 +56,12 @@
 ## Github Statistics
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2dtkingslayer&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="table1"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongd3&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="table1"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=2dtkingslayer&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=ff0&text_color=fff" alt="table2"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=truongd3&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=ff0&text_color=fff" alt="table2"/>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=2dtkingslayer)](https://github-profile-trophy.vercel.app/?username=2dtkingslayer)
+[![trophy](https://github-profile-trophy.vercel.app/?username=truongd3)](https://github-profile-trophy.vercel.app/?username=truongd3)
 
 
 ## LeetCode Statistics
@@ -79,7 +79,7 @@
   <a href="https://www.facebook.com/ducthuansidco" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fb" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/2dtkingslayer/" target="blank">
+  <a href="https://www.instagram.com/truongd3/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ig" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UC8suz7ZRvQ8mSRlu65ogJ1w" target="blank">
@@ -91,18 +91,18 @@
 
 > My top current projects
 
-<a href="https://github.com/2dtkingslayer/Real-Estate-House-Price-Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2dtkingslayer&repo=Real-Estate-House-Price-Prediction" />
+<a href="https://github.com/truongd3/Real-Estate-House-Price-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=truongd3&repo=Real-Estate-House-Price-Prediction" />
 </a>
 
-<a href="https://github.com/2dtkingslayer/New_Perl-Like_Language">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2dtkingslayer&repo=New_Perl-Like_Language" />
+<a href="https://github.com/truongd3/New_Perl-Like_Language">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=truongd3&repo=New_Perl-Like_Language" />
 </a>
 
-<a href="https://github.com/2dtkingslayer/SaveWildlife">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2dtkingslayer&repo=SaveWildlife" />
+<a href="https://github.com/truongd3/SaveWildlife">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=truongd3&repo=SaveWildlife" />
 </a>
 
-<a href="https://github.com/2dtkingslayer/MarketingSite-with-SalesFunnel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2dtkingslayer&repo=MarketingSite-with-SalesFunnel" />
+<a href="https://github.com/truongd3/MarketingSite-with-SalesFunnel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=truongd3&repo=MarketingSite-with-SalesFunnel" />
 </a>
