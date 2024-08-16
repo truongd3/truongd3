@@ -86,23 +86,3 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="utube" height="30" width="30" />
   </a>
 </p>
-
-## Top Projects
-
-> My top current projects
-
-<a href="https://github.com/truongd3/Real-Estate-House-Price-Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=truongd3&repo=Real-Estate-House-Price-Prediction" />
-</a>
-
-<a href="https://github.com/truongd3/New_Perl-Like_Language">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=truongd3&repo=New_Perl-Like_Language" />
-</a>
-
-<a href="https://github.com/truongd3/SaveWildlife">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=truongd3&repo=SaveWildlife" />
-</a>
-
-<a href="https://github.com/truongd3/MarketingSite-with-SalesFunnel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=truongd3&repo=MarketingSite-with-SalesFunnel" />
-</a>
