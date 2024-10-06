@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Truong Dang (a.k.a 2DT)</h1>
-<h3 align="center">👨🏼‍💻 A passionate Computer Science student from Vietnam 🇻🇳</h3>
+<h3 align="center">👨🏼‍💻 A responsible Computer Science student and Software Engineer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=truongd3" alt="vadorequest" />
@@ -12,9 +12,7 @@
 
 - 👨‍🎓&nbsp;&nbsp;I’m currently a senior whose major is **Computer Science**
 
-- 💻&nbsp;&nbsp;I’m interested in **software development (web and iOS)**, **data analysis**, and **coding assessments**
-
-- 👀&nbsp;&nbsp;I'm looking for **New-Grad Software Engineering role** for **May 2025**
+- 💻&nbsp;&nbsp;I’m interested in **low-level development**, **software development (web and iOS)**, **data analysis**, and **coding assessments**
 
 - 💬&nbsp;&nbsp;How to reach me? [**LinkedIn**](https://www.linkedin.com/in/2dt/), [**Gmail**](mailto:tdd4@njit.edu), [**FaceBook**](https://www.facebook.com/ducthuansidco)
 
