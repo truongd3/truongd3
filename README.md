@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Truong Dang (a.k.a 2DT)</h1>
-<h3 align="center">👨🏼‍💻 A responsible Computer Science student and Software Engineer</h3>
+<h1 align="center">Hi 👋 I'm Truong Dang (a.k.a 2DT)</h1>
+<h3 align="center">👨🏼‍💻 A responsible Computer Science student & Software Engineer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=truongd3" alt="vadorequest" />
@@ -12,7 +12,7 @@
 
 - 👨‍🎓&nbsp;&nbsp;I’m currently a senior whose major is **Computer Science**
 
-- 💻&nbsp;&nbsp;I’m interested in **low-level development**, **software development (web and iOS)**, **data analysis**, and **coding assessments**
+- 💻&nbsp;&nbsp;I’m interested in **low-level development**, **software development (web and iOS)**, **data analysis**, and **algorithms**
 
 - 💬&nbsp;&nbsp;How to reach me? [**LinkedIn**](https://www.linkedin.com/in/2dt/), [**Gmail**](mailto:tdd4@njit.edu), [**FaceBook**](https://www.facebook.com/ducthuansidco)
 
@@ -53,11 +53,8 @@
 
 ## Github Statistics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongd3&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="table1"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=truongd3&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=ff0&text_color=fff" alt="table2"/>
-</p>
+![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=truongd3&layout=compact&hide=css,html,php,dart,swift,CMake)
+![gh stats](https://github-readme-stats.vercel.app/api?username=truongd3)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=truongd3)](https://github-profile-trophy.vercel.app/?username=truongd3)
 
