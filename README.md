@@ -53,7 +53,7 @@
 
 ## Github Statistics
 
-![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=truongd3&layout=compact&hide=css,html,php,dart,swift,CMake)
+![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=truongd3&layout=compact&hide=css,html,php,swift,CMake,jupyter%20notebook)
 ![gh stats](https://github-readme-stats.vercel.app/api?username=truongd3)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=truongd3)](https://github-profile-trophy.vercel.app/?username=truongd3)
