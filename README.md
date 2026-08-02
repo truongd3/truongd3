@@ -50,13 +50,14 @@
  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
  <img alt="c" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
  <img alt="c plus plus" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
- <br>
+ <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<br>
+ <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
  <img alt="Latex" src="https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=latex&logoColor=white" />
  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
- <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
 
-### AI/ML/DS:
+### ML/AI:
 <div>
  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
  <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -90,8 +91,8 @@
 ### MLOps & Data:
 <div>
   <img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-  <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
-  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <!-- <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"> -->
+  <!-- <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"> -->
   <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
   <br>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -109,9 +110,6 @@
   <br>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
-  <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
   <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
@@ -135,8 +133,6 @@
  <img alt="Replit" src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-<!--  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" /> -->
-<!--  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> -->
 </div>
 </div>
 
@@ -156,10 +152,11 @@
 <div align="center">
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quanhn232&column=-1&no-bg=true&no-frame=true&theme=oldie" alt="trophies" /></a> </p> -->
-![](https://github-profile-trophy.vercel.app/?username=quanhn232&column=-1&no-bg=true&no-frame=true&theme=oldie)
 
-<!-- [![Quan's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/quanhn232?cardType=github&theme=react)](https://git.io/awesome-stats-card) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quanhn232&theme=react&layout=compact&langs_count=5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
+![](https://github-profile-trophy.vercel.app/?username=truongd3&column=-1&no-bg=true&no-frame=true&theme=oldie)
+
+[![Truong's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/truongd3?cardType=github&theme=react)](https://git.io/awesome-stats-card)
+
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quanhn232&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quanhn232&theme=nord_bright)
@@ -168,9 +165,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quanhn232&theme=nord_bright)
  
 </div>
-
-
-
 
 
 
